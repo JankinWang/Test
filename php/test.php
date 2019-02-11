@@ -1,4 +1,4 @@
 <?php
-ehco "hello";
+ehco "hello china";
 
 ?>
